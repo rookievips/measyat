@@ -1,0 +1,3 @@
+include ':measyat'
+include ':app'
+rootProject.name = "MEasyAt"

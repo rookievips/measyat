@@ -47,5 +47,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
 //    implementation project(path: ':measyat')
-    implementation 'com.github.rookievips:measyat:1.5.0'
+    implementation 'com.github.rookievips:measyat:1.7.0'
 }
